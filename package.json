@@ -1,0 +1,22 @@
+{
+  "name": "15.arknight_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "bootstrap": "^4.4.1",
+    "cookie-session": "^1.3.3",
+    "express": "^4.17.1",
+    "express-art-template": "^1.0.1",
+    "formidable": "^1.2.1",
+    "mysql": "^2.17.1",
+    "router": "^1.3.3",
+    "silly-datetime": "^0.1.2"
+  }
+}
